@@ -413,9 +413,9 @@ bottom: 50px;
     }
   }
   
-  @media screen and (max-width:950px){
+  @media screen and (max-width:960px){
      .container-fluid{
-        width: calc(100% - 100px);
+        width: calc(100% - 70px);
      }
   }
   @media screen and (max-width:835px){
@@ -423,7 +423,7 @@ bottom: 50px;
        width: calc(100% - 50px);
     }
  }
- @media screen and (max-width:800px){
+ @media screen and (max-width:810px){
     .hamburger{
         display: block;
         color: white;
